@@ -1,0 +1,20 @@
+C:\Users\yasse\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\yasse\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\yasse\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.dashBoard.resources
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.moneyEx.resources
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.lottoMax.resources
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.lotto649.resources
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.temConvertion.resources
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.ipValidator.resources
+C:\Users\yasse\source\repos\Project\Project\obj\Debug\Project.Calculator.resources
+D:\Personal Projects\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Personal Projects\Project\Project\obj\Debug\Project.exe
+D:\Personal Projects\Project\Project\obj\Debug\Project.pdb
